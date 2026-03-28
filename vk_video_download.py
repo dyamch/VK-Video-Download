@@ -362,7 +362,7 @@ class App(ttk.Frame):
         webbrowser.open_new_tab('https://github.com/blyamur/VK-Video-Download')
 
     def donate(self):
-        webbrowser.open_new_tab('https://ko-fi.com/monseg')
+        webbrowser.open_new_tab('https://yoomoney.ru/to/41001158104834')
 
     def checkUpdate(self, method='Button'):
         try:
